@@ -12,7 +12,7 @@ The books used are
 
 LSTM at the end will be given a starting string of text and keep writing to the text character by character until it reaches the pre-defined length. It will use previous texts to predict/mimic the next most possible character.
 
-The following are the generated text.
+The following are the generated text:
 
 `
 there are those who take mental phenomena naively just as they would physical phenomena this school of psychologists tends not to emphasize the object which is the same as the shnple in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the state of affairs in the
